@@ -12,6 +12,7 @@
 geneticAlgorithm(population=cityList, popSize=100, eliteSize=20, mutationRate=0.01, generations=500)
 ```
 Initial distance: 1992.2165065271524
+
 Final distance: 819.7935703820748
 
 [(11,3),
